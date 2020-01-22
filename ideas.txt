@@ -1,0 +1,15 @@
+1. Read about guitar tuner work
+2. Change final visualisation of song with chords
+   (in timeline?)
+3. Read about Hidden Markov Models
+4. Shuffle dataset files, then take data from different places
+   Firstly divide on test and train and then try to get data
+   Then compare scores.
+5. Add getting chromagram from different places of song 
+   (not from all song? it's more for data generation)
+6. LSTM?
+7. Add chords to dataset
+8. Try to cut song on different channels (voice, instrument1, instrument2, ...)
+9. Try to look which note in which chord and then create stuped model for analysis
+10. Many models and combine it in voting?
+11. CNN?
