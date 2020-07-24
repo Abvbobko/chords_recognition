@@ -1,1 +1,9 @@
 /.ipynb_checkpoints
+/catboost_info
+
+# work todo files
+*.todo
+
+# data files
+*.csv
+
